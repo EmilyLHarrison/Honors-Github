@@ -1,1 +1,1 @@
-# Honors Github
+# honors-project
